@@ -9,4 +9,4 @@
 | caps + n/. | Scroll to beginning/end of the document |
 | caps + d/f | Backspace/delete |
 | caps + e/r | Delete one word backward/forward |
-| caps + s/g | Delete to beginning/end of line |
+| caps + s/g | Delete to beginning/end of the line |
